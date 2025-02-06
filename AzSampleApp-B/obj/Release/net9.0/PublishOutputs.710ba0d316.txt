@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Documents\AzSampleApp-B\AzSampleApp-B\bin\Publish\AzSampleApp-B.exe
+C:\Users\simon\OneDrive\Documents\AzSampleApp-B\AzSampleApp-B\bin\Publish\appsettings.Development.json
+C:\Users\simon\OneDrive\Documents\AzSampleApp-B\AzSampleApp-B\bin\Publish\appsettings.json
+C:\Users\simon\OneDrive\Documents\AzSampleApp-B\AzSampleApp-B\bin\Publish\AzSampleApp-B.dll
+C:\Users\simon\OneDrive\Documents\AzSampleApp-B\AzSampleApp-B\bin\Publish\AzSampleApp-B.deps.json
+C:\Users\simon\OneDrive\Documents\AzSampleApp-B\AzSampleApp-B\bin\Publish\AzSampleApp-B.runtimeconfig.json
+C:\Users\simon\OneDrive\Documents\AzSampleApp-B\AzSampleApp-B\bin\Publish\AzSampleApp-B.pdb
